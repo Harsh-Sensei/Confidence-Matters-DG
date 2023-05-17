@@ -1,0 +1,14 @@
+*.pkl
+*.sh
+*.png
+*.log
+*.logs
+*.txt
+*.jsonl
+**/done
+*.tmp
+*.tex
+*.pt
+*.pyc
+*.dump
+core
