@@ -74,10 +74,8 @@ python3 -m domainbed.scripts.evaluate --data_dir=../../MoE-DG/domainbed/data/ --
 Deterministic routing
 | Algorithm      | PACS | VLCS  | OfficeHome  | TerraIncognita | 
 | :---:        |    :----:   |          :---: | :---: | :---: |
-| MIRO      | 79.0  | 85.4 | 70.5  |  **50.4**  |
 | GMOE      |   **80.2**   |  88.1  |  74.2  |  48.5  |
-| CE (ours, clus.)      | 79.9       | 87.1   |  **74.4** |  40.8  |
-| CE (ours, stra.)      | 80.0 | **88.4**  | 73.8  |  42.8  |
+| CE (ours)      | **80.2** | **88.4**  | **74.5**  |  46.1  |
 
 Random routing on large datasets
 | Algorithm      | SVIRO | 
@@ -85,9 +83,6 @@ Random routing on large datasets
 | ViT      |   89.6    | 
 | GMOE     |    90.3   | 
 |  CE (ours)     |   **92.2**   | 
-
-### Hyperparameters
-Default hyperparameters of the models of respective datasets are set to optimal ones. (based on train-domain validation)
 
 ### Pre-trained models
 To be released soon
