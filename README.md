@@ -1,6 +1,7 @@
 # Domain Generalization - Confident Experts
 
-This repository is the implementation of paper **Domain Generalization - Confident Experts**
+This repository is the implementation of paper **Evicting Gating Network of Mixture-Of-Experts for
+Domain Generalization**
 
 
 
