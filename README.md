@@ -72,7 +72,6 @@ python3 -m domainbed.scripts.evaluate --data_dir=../../MoE-DG/domainbed/data/ --
 ```
 
 ### Results
-Deterministic routing
 | Algorithm      | PACS | VLCS  | OfficeHome  | TerraIncognita | 
 | :---:        |    :----:   |          :---: | :---: | :---: |
 | GMOE      |   **80.2**   |  88.1  |  74.2  |  48.5  |
